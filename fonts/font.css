@@ -1,0 +1,18 @@
+/*
+font-family: 'Baskerville';
+font-family: 'Baskerville-Bold';
+*/
+
+@font-face {
+    font-family: 'Baskerville';
+    src: url('Baskerville.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Baskerville-Bold';
+    src: url('Baskerville-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
